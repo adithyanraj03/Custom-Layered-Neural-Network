@@ -1,0 +1,14 @@
+# ninja log v5
+134	1385	6886914625617024	CMakeFiles/Code_4.dir/ann-master/src/utils/Math.cpp.obj	13a7b2bde8c09ed6
+289	1487	6886914626717016	CMakeFiles/Code_4.dir/ann-master/src/utils/Misc.cpp.obj	8ffbc3d803273647
+259	1705	6886914628577009	CMakeFiles/Code_4.dir/ann-master/src/Layer.cpp.obj	6b63aac94fe1a43d
+316	1824	6886914630167024	CMakeFiles/Code_4.dir/ann-master/src/Matrix.cpp.obj	4d73e2d4272d89e6
+1487	2131	6886914633257013	CMakeFiles/Code_4.dir/ann-master/src/Neuron.cpp.obj	6ca5b05c0ab237
+172	2504	6886914636987042	CMakeFiles/Code_4.dir/ann-master/src/neural_network/train.cpp.obj	3b41f7cda743b21e
+53	2614	6886914638047067	CMakeFiles/Code_4.dir/ann-master/src/neural_network/feedForward.cpp.obj	81242603e132c363
+206	2644	6886914638377023	CMakeFiles/Code_4.dir/ann-master/src/neural_network/setErrors.cpp.obj	4f302a3205c8b74c
+3	2658	6886914638517060	CMakeFiles/Code_4.dir/ann-master/src/neural_network/backPropagation.cpp.obj	79475dc2fa94f525
+23	2710	6886914639026991	CMakeFiles/Code_4.dir/ann-master/src/neural_network/constructor.cpp.obj	54cd9af0237b3c79
+38	3419	6886914646156973	CMakeFiles/Code_4.dir/ann-master/src/neural_network/loadWeights.cpp.obj	25e10268396b204e
+82	3493	6886914646896968	CMakeFiles/Code_4.dir/ann-master/src/neural_network/NeuralNetwork.cpp.obj	d92424ea36b4569e
+1398	3964	6886914651606970	CMakeFiles/Code_4.dir/ann-master/src/train.cpp.obj	509b5d8cd226cde2

@@ -1,0 +1,3 @@
+C:/Users/adith/Desktop/neural-network-master/Code 4/cmake-build-debug/CMakeFiles/Code_4.dir
+C:/Users/adith/Desktop/neural-network-master/Code 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adith/Desktop/neural-network-master/Code 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ignore build files
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CMakeCache.txt
+
+# ignore config files
+config/*.json
+
+# ignore weight files
+weights/*.json
+
+# ignore data
+data/
+
+# ignore executables
+autoencoder_classify
+autoencoder_train_and_classify
+train
+wg
+tensor_train

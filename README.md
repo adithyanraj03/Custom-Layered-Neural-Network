@@ -53,6 +53,24 @@ int main() {
     return 0;
 }
 ```
+# Installation
+
+```
+$ cmake .
+$ make
+```
+
+# Usage
+
+## Training
+```
+$ ./train [path/to/config.json]
+```
+
+## Autoencoder
+```
+$ ./autoencode_classify [path/to/config.json]
+```
 
 Contributing:
 Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please feel free to submit a pull request or open an issue.

@@ -57,7 +57,7 @@ int main() {
 Contributing:
 Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please feel free to submit a pull request or open an issue.
 
-License:
+<a href ="https://github.com/adithyanraj03/Custom-Layered-Neural-Network/blob/master/LICENSE">License:<a>
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more information.
 
 Acknowledgements:
